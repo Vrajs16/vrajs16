@@ -1,6 +1,6 @@
 # Hi there, I'm Vraj 👋🏽
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=vrajs16&show_icons=true&theme=radical'/>
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=vrajs16&show_icons=true&theme=chartreuse-dark'/>
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vrajs16&layout=compact'/>
 
