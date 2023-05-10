@@ -12,7 +12,7 @@
         <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
     </div>
     <div style="display: flex; flex-direction: column; padding: 1rem; gap: 1rem">
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vrajs16&layout=compact'/>
-        <img src='https://github-readme-stats.vercel.app/api?username=vrajs16&show_icons=true&theme=chartreuse-dark'/>
+        <img align="left" width="47%" height="300px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=vrajs16&layout=compact'/>
+        <img align="right" width="47%" height="300px" src='https://github-readme-stats.vercel.app/api?username=vrajs16&show_icons=true&theme=chartreuse-dark'/>
     </div>
 </div>
